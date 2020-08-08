@@ -15,4 +15,4 @@ This is a shiny dashboard project. It displayed a comprehensive picture of how a
 
 You can try to use this link(https://lnkd.in/eBpiTtf) to check how it actually works.
 
-![](gif1.mov)
+![](gif1.gif)
