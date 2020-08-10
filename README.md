@@ -14,6 +14,6 @@ This is a shiny dashboard project. It displayed a comprehensive picture of how a
 3. Mastery of topics tested in the quiz
 (p.s all the questions were labeled correct or wrong according to individual test results, so users could identify the key items quickly and conduct deeper analysis of reasons for success or failure)
 
-You can try to use this link(https://lnkd.in/eBpiTtf) to check how it actually works.
+You can try to use this [link](https://lnkd.in/eBpiTtf) to check how it actually works.
 
 ![](gif1.gif)
