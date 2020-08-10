@@ -11,7 +11,7 @@ This is a shiny dashboard project. It displayed a comprehensive picture of how a
 ## Individual:
 1. Time spent on each question and how it changes in question order
 2. Click count on each question and how it changes in question order
-3. Mastery of topics tested in the quiz
+3. Mastery of topics tested in the quiz<br>
 (p.s all the questions were labeled correct or wrong according to individual test results, so users could identify the key items quickly and conduct deeper analysis of reasons for success or failure)
 
 You can try to use this [**link**](https://lnkd.in/eBpiTtf) to check how it actually works.
