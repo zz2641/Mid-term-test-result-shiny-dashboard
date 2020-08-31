@@ -1,6 +1,5 @@
-
-![](gif1.gif)
 # Midterm-Result-Interactive-Dashboard
+![](gif1.gif)
 Learning Analytics; Interactive Data Visualization
 
 This is a shiny dashboard project. It displayed a comprehensive picture of how a mid-term quiz is designed and how students performed from both individual and aggregate perspectives. The plots are intuitive to tell the potential users the following stories:
